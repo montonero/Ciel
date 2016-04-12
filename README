@@ -8,8 +8,9 @@ To build Ciel you will need:
 * CLN, the Class Library for Numbers (http://www.ginac.de/CLN/)
 * g++
 
-To build Ciel, just install libgc and libcln, then make.  Ciel has been
-built and run on Linux and OS X Snow Leopard.
+To build Ciel, ensure that libreadline is installed, then just install
+libgc and libcln, then make. Ciel has been built and run on Linux and
+OS X Snow Leopard.
 
 At the moment Ciel is interpreted, but it is designed to be compiled
 straighforwardly into C++, and thence into native code.  Some examples of
