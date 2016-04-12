@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cstdio>
 #include <ext/hash_map>
 #include <map>
 #include <vector>
